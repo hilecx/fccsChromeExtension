@@ -1,0 +1,1 @@
+setTimeout("alert(1)",Math.floor(Math.random()*10000+1));

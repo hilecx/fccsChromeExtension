@@ -1,0 +1,18 @@
+{  
+  "name": "fccsEditor",  
+  "version": "1.0.0",  
+  "manifest_version": 2,
+  "permissions": [
+    "contentSettings", "tabs",    "http://member.fccs.com//","storage"
+  ],
+  "background": {
+    "scripts": ["jquery-1.9.1.js"],
+    "scripts": ["background.js"]
+  },
+  "description": "Refresh date of houses",  
+  "browser_action": {  
+    "default_icon": "icon.png" ,
+    "default_title": "fccsEditor",
+    "default_popup": "popup.html"
+  }  
+} 
