@@ -1,6 +1,5 @@
 # fccsChromeExtension
 
-fccs网的chrome插件
+用于房产超市（fccs）网的chrome插件
 
-refresh 可以实现自动刷新，并使排名靠前
-editor
+使用editor可以使房源排名靠前
